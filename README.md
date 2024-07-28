@@ -1,4 +1,4 @@
-![Screenshot 2024-02-26 220156](https://github.com/rawat512/Search_Engine_Optimization/assets/159688702/cc4edf71-bbe9-49c6-982f-1fa71efffe2c)
+![Screenshot 2024-02-26 220156](<img width="901" alt="SEO" src="https://github.com/user-attachments/assets/c7e67eca-ae0e-44f6-b1f9-26ac4cb1ff03">)
 
 Did On-Page, Off-Page, and Technical Search Engine Optimization(SEO) for Book Alliance. In On-Page did URL, Title, content, images, and Heading optimization. Used RankMath tool for on-page SEO. Used Google Search Consol to track website pages and posts crawling and indexing reports to make the website run smoothly on Google Search Engine. Detected errors on pages and resolved them to make a better user experience. Used Sitemap to let Google crawl all the pages instantly.
 
